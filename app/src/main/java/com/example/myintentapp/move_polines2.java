@@ -1,4 +1,4 @@
-package hanif.nat.myintentapp4;
+package com.example.myintentapp;
 
 import androidx.appcompat.app.AppCompatActivity;
 

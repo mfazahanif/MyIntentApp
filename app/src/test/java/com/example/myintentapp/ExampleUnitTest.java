@@ -1,4 +1,4 @@
-package hanif.nat.myintentapp4;
+package com.example.myintentapp;
 
 import org.junit.Test;
 
